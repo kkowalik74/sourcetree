@@ -1,6 +1,11 @@
 first line
 second line
+<<<<<<< HEAD
 third doda³ trzecia zmiana kazimierz.druga zmiana kowalik line
 czwarat zmiana w tasku
 created on account kkowalik74
 
+=======
+third line
+created on account czwarta zmiana kkowalik74
+>>>>>>> dev
