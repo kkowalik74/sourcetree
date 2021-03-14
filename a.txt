@@ -1,3 +1,5 @@
+zmiany w dev
+
 usun¹æ -> start changes on feature3 07:56
 
 usun¹æ -> second change on branch dev 07:59
