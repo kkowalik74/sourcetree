@@ -1,7 +1,7 @@
-usun号 start changes on feature3 07:56
+usun号 -> start changes on feature3 07:56
 
-usun号 second change on branch dev 07:59
-usun号 first change on branch dev 07:58
+usun号 -> second change on branch dev 07:59
+usun号 -> first change on branch dev 07:58
 
 f2 - 3 13:41
 first line
